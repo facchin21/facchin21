@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Fermin Facchin Quiroga</h1>
-<img src=".//img/Portada Perfil de Linkedin Profesional Moderno Oscuro.png" alt="Foto Portada" />
 <h3 align="center">🖥️A student of TUDAI (University technician in computer application development) at UNICEN, Argentina. A passionate Front-end developer.🖥️</h3>
 
 - 📫 How to reach me **ferminfacchinq@gmail.com**
