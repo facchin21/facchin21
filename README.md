@@ -17,3 +17,7 @@
 <p align="center">
   🎬 Content creator at <a href="https://linktr.ee/programate"><b>@programate</b></a>, sharing my day-to-day as a developer.
 </p>
+
+<p align="center">
+  Prev: @LemonCash && @IntermediaIT
+</p>
