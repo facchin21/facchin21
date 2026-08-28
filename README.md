@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  Prev: @LemonCash && @IntermediaIT
+  Software Engineer at @NaranjaX Prev: @LemonCash && @IntermediaIT
 </p>
