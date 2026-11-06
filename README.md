@@ -14,8 +14,12 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://linktr.ee/programate">
-  <img src="https://img.shields.io/badge/@programate-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="@programate" />
+<a href="https://ferminfacchin.dev">
+  <img src="https://img.shields.io/badge/Portfolio-F0DB4F?style=for-the-badge&logo=firefox&logoColor=000000" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://ferminfacchinq.com">
+  <img src="https://img.shields.io/badge/Links-111111?style=for-the-badge&logo=linktree&logoColor=white" alt="Links" />
 </a>
 
 </div>
@@ -52,7 +56,7 @@ Developer focused on **Automation, AI & developer tooling** — I turn repetitiv
 
 - **Building automations** that connect tools, teams, and ideas
 - **Exploring AI systems** that are useful in real workflows — not just impressive demos
-- **Creating developer content** at [@programate](https://linktr.ee/programate), sharing the day-to-day of building software
+- **Creating developer content** at [@programate](https://ferminfacchinq.com), sharing the day-to-day of building software
 
 ## 🏢 Experience
 
