@@ -60,7 +60,7 @@ Developer focused on **Automation, AI & developer tooling** — I turn repetitiv
 
 ## 🏢 Experience
 
-Currently **Software Engineer at [NaranjaX](https://github.com/NaranjaX)** · Previously **Lemon Cash** and **Intermedia IT**.
+Currently **Software Engineer at NaranjaX** · Previously **Lemon Cash** and **Intermedia IT**.
 
 ---
 
