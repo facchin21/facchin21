@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
-<a href="https://ferminfacchin.dev">
+<a href="https://ferminfacchinq.dev">
   <img src="https://img.shields.io/badge/Portfolio-F0DB4F?style=for-the-badge&logo=firefox&logoColor=000000" alt="Portfolio" />
 </a>
 &nbsp;
