@@ -4,23 +4,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/SpaceX_Argentina-Ambassador-000000?style=flat&logo=spacex&logoColor=white" alt="SpaceX Argentina Ambassador" />
+![SpaceX Argentina Ambassador](https://img.shields.io/badge/SpaceX_Argentina-Ambassador-000000?style=for-the-badge&logo=spacex&logoColor=white)
 &nbsp;
-<img src="https://img.shields.io/badge/Argentina-🇦🇷-74ACDF?style=flat" alt="Argentina" />
+![Argentina](https://img.shields.io/badge/Argentina-🇦🇷-74ACDF?style=for-the-badge)
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/ferminfacchin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferminfacchin/)
 &nbsp;
-<a href="https://ferminfacchinq.dev">
-  <img src="https://img.shields.io/badge/Portfolio-F0DB4F?style=flat&logo=safari&logoColor=000000" alt="Portfolio" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-F0DB4F?style=for-the-badge&logo=safari&logoColor=000000)](https://ferminfacchinq.dev)
 &nbsp;
-<a href="https://ferminfacchinq.com">
-  <img src="https://img.shields.io/badge/Links-111111?style=flat&logo=linktree&logoColor=white" alt="Links" />
-</a>
+[![Links](https://img.shields.io/badge/Links-111111?style=for-the-badge&logo=linktree&logoColor=white)](https://ferminfacchinq.com)
 
 </div>
 
@@ -32,12 +26,10 @@ Developer focused on **Automation, AI & developer tooling** — I turn repetitiv
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ## 🌱 What I'm focused on
 
