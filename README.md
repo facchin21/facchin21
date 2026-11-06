@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Fermin+Facchin+%F0%9F%91%8B;Automation+%26+AI+Engineer;SpaceX+Ambassador+%F0%9F%9A%80;Always+building%2C+always+learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F0DB4F&background=00000000&center=true&vCenter=true&width=680&lines=Hey%2C+I'm+Fermin+Facchin+%F0%9F%91%8B;Automation+%26+AI+Engineer;SpaceX+Argentina+Ambassador+%F0%9F%9A%80;Always+building%2C+always+learning." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SpaceX-Ambassador-000000?style=for-the-badge&logo=spacex&logoColor=white" alt="SpaceX Ambassador" />
+<img src="https://img.shields.io/badge/SpaceX_Argentina-Ambassador-000000?style=for-the-badge&logo=spacex&logoColor=white" alt="SpaceX Argentina Ambassador" />
 &nbsp;
 <img src="https://img.shields.io/badge/Argentina-%F0%9F%87%A6%F0%9F%87%B7-74ACDF?style=for-the-badge" alt="Argentina" />
 
@@ -26,8 +26,6 @@
 
 Developer focused on **Automation, AI & developer tooling** — I turn repetitive work into reliable systems using **TypeScript**, **Python**, and AI-powered workflows.
 
-As a **SpaceX Ambassador**, I believe technology should push the limits of what's possible — not just automate what already exists.
-
 ## 🛠️ Tech Stack
 
 <p>
@@ -42,11 +40,11 @@ As a **SpaceX Ambassador**, I believe technology should push the limits of what'
 <div align="center">
 
 <a href="https://github.com/facchin21">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=facchin21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=CDD9E5&include_all_commits=true&count_private=true" alt="Fermin's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facchin21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=CDD9E5" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=facchin21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=CDD9E5&include_all_commits=true&count_private=true" alt="Fermin's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facchin21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0DB4F&text_color=CDD9E5" alt="Top Languages" />
 </a>
 
-<img src="https://streak-stats.demolab.com?user=facchin21&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=facchin21&theme=tokyonight&hide_border=true&background=0D1117&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F" alt="GitHub Streak" />
 
 </div>
 
