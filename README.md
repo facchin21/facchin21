@@ -39,18 +39,6 @@ Developer focused on **Automation, AI & developer tooling** — I turn repetitiv
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
 </p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/facchin21">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=facchin21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F&text_color=CDD9E5&include_all_commits=true&count_private=true" alt="Fermin's GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=facchin21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F0DB4F&text_color=CDD9E5" alt="Top Languages" />
-</a>
-
-<img src="https://streak-stats.demolab.com?user=facchin21&theme=tokyonight&hide_border=true&background=0D1117&ring=F0DB4F&fire=F0DB4F&currStreakLabel=F0DB4F" alt="GitHub Streak" />
-
-</div>
 
 ## 🌱 What I'm focused on
 
